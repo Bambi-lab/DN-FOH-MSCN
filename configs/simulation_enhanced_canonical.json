@@ -1,0 +1,12 @@
+{
+  "condition": "enhanced",
+  "seed": 42,
+  "a_dc": 1.0,
+  "phase_white_std_rad": 0.005,
+  "phase_drift_std_rad": 0.02,
+  "phase_drift_control_points_per_s": 2,
+  "visibility_min": 0.6,
+  "visibility_max": 1.0,
+  "detector_noise_std": 0.005,
+  "rng": "numpy RandomState; one stream over classes A-E and sorted filenames"
+}

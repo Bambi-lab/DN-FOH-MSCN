@@ -1,0 +1,31 @@
+{
+  "seeds": [
+    42,
+    123,
+    456
+  ],
+  "split": "80-20 in available runner",
+  "train_snr_db": [
+    "clean",
+    30,
+    20,
+    10,
+    5,
+    0
+  ],
+  "select_snr_db": [
+    10,
+    5,
+    0
+  ],
+  "noise_seed": 42,
+  "batch_size": 8,
+  "learning_rate": 0.0003,
+  "epochs": 35,
+  "patience": 10,
+  "lambda_reconstruction": 0.05,
+  "denoiser_hidden": 24,
+  "freeze_backbone_epochs": 2,
+  "full_parameters": 312383,
+  "denoiser_parameters": 1033
+}

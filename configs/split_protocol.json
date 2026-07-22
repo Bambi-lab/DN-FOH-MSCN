@@ -1,0 +1,22 @@
+{
+  "segment": {
+    "fractions": [
+      0.7,
+      0.1,
+      0.2
+    ],
+    "stratified": true,
+    "seed": 42
+  },
+  "recording": {
+    "fractions": [
+      0.8,
+      0.2
+    ],
+    "seeds": [
+      42,
+      123,
+      456
+    ]
+  }
+}

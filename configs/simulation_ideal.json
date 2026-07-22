@@ -1,0 +1,8 @@
+{
+  "condition": "ideal",
+  "sample_rate_hz": 12000,
+  "segment_seconds": 3,
+  "a_dc": 1.0,
+  "visibility": 1.0,
+  "audio_normalization": "PCM full scale"
+}

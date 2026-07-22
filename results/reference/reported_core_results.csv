@@ -1,0 +1,8 @@
+table,model,metric,mean_percent,std_percent,artifact_trace
+main_segment,full,accuracy,89.26,0.84,final server artifact missing locally
+main_segment,full,macro_f1,87.84,1.33,final server artifact missing locally
+main_segment,backbone,accuracy,87.54,1.02,aggregate only; final logs absent
+main_segment,backbone,macro_f1,86.18,0.89,aggregate only; final logs absent
+recording,full,accuracy,65.84,1.33,final full-model run artifacts missing locally
+recording,full,macro_f1,60.16,2.51,final full-model run artifacts missing locally
+awgn,full,mean_accuracy_10_5_0dB,86.13,,latest server artifacts missing locally

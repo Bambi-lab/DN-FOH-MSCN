@@ -1,0 +1,15 @@
+{
+  "split_mode_default": "80-20",
+  "reported_split_command": "70-10-20",
+  "seed": 42,
+  "batch_size": 8,
+  "learning_rate": 0.001,
+  "epochs": 100,
+  "patience": 15,
+  "optimizer": "AdamW",
+  "weight_decay": 0.0001,
+  "scheduler": "CosineAnnealingLR",
+  "scheduler_t_max": "epochs//2",
+  "eta_min": 1e-05,
+  "model_parameters": 311350
+}

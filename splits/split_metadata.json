@@ -1,0 +1,97 @@
+{
+  "n_samples": 16898,
+  "class_counts": {
+    "A": 2460,
+    "B": 2384,
+    "C": 6682,
+    "D": 3348,
+    "E": 2024
+  },
+  "source_listing_sha256": "9a6fec23f8d8ce59ccbfba391ab7b2a9248624419fa56d6dc2c27de087e3ce0f",
+  "recording_counts": {
+    "42": {
+      "0": {
+        "total": 17,
+        "test": 3
+      },
+      "1": {
+        "total": 19,
+        "test": 3
+      },
+      "2": {
+        "total": 30,
+        "test": 6
+      },
+      "3": {
+        "total": 12,
+        "test": 2
+      },
+      "4": {
+        "total": 72,
+        "test": 14
+      }
+    },
+    "123": {
+      "0": {
+        "total": 17,
+        "test": 3
+      },
+      "1": {
+        "total": 19,
+        "test": 3
+      },
+      "2": {
+        "total": 30,
+        "test": 6
+      },
+      "3": {
+        "total": 12,
+        "test": 2
+      },
+      "4": {
+        "total": 72,
+        "test": 14
+      }
+    },
+    "456": {
+      "0": {
+        "total": 17,
+        "test": 3
+      },
+      "1": {
+        "total": 19,
+        "test": 3
+      },
+      "2": {
+        "total": 30,
+        "test": 6
+      },
+      "3": {
+        "total": 12,
+        "test": 2
+      },
+      "4": {
+        "total": 72,
+        "test": 14
+      }
+    }
+  },
+  "files": [
+    {
+      "name": "segment_70_10_20_seed42.csv",
+      "sha256": "40094ca5ff2ab9e933ca01daa3cf8d965b7644df205d63b2c489e8f220c10f47"
+    },
+    {
+      "name": "recording_80_20_seed42.csv",
+      "sha256": "49c9ebc9a9fc5a9599f1b68ac13733f095f51f7a560cec89fbc6c84cd45aecdd"
+    },
+    {
+      "name": "recording_80_20_seed123.csv",
+      "sha256": "9cecbaeb4de74592b901b430dbf0032c3656695d01f3c1d50a3bdc16179f282a"
+    },
+    {
+      "name": "recording_80_20_seed456.csv",
+      "sha256": "bd84d4901ebefa1b9295f88f18c4a5a05fb9bf22bd53fcfc19090ffa59c906e4"
+    }
+  ]
+}
