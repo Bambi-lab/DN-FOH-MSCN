@@ -94,6 +94,10 @@ python scripts/smoke_test.py
      --segment-seed 42 --recording-seeds 42 123 456
    ```
 
+## Data Preparation Architecture
+
+![Fig1](assets/Fig1.png)
+
 ## Quick Start: Evaluate a Pre-Trained Checkpoint
 
 ```bash
